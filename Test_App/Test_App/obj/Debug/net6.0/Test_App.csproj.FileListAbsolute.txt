@@ -1,0 +1,15 @@
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.csproj.AssemblyReference.cache
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.AssemblyInfoInputs.cache
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.AssemblyInfo.cs
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.csproj.CoreCompileInputs.cache
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\bin\Debug\net6.0\Test_App.exe
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\bin\Debug\net6.0\Test_App.deps.json
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\bin\Debug\net6.0\Test_App.runtimeconfig.json
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\bin\Debug\net6.0\Test_App.dll
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\bin\Debug\net6.0\Test_App.pdb
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.dll
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\refint\Test_App.dll
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.pdb
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\Test_App.genruntimeconfig.cache
+C:\Users\StudentsDev\Desktop\Test_repository\Test\Test_App\Test_App\obj\Debug\net6.0\ref\Test_App.dll
